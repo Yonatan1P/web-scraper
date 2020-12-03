@@ -1,5 +1,7 @@
 # Feature Tasks and Requirements
 
+Pull Request: https://github.com/Yonatan1P/web-scraper/pull/1
+
 Scrape a Wikipedia page and record which passages need citations.
 
 E.g. History of Mexico has 7 “citation needed” cases, as of this writing.
